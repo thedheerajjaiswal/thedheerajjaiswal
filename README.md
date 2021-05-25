@@ -6,7 +6,7 @@
 - 📫 How to reach me ...   dheerajjaiswal781@gmail.com
 - 🛠 Languages and Tools -
 Programming Languages-
-HTML5,  CSS3,  JavaScript,Angular, Flutter, Dart.
+HTML5,  CSS3,  JavaScript,Reactjs,Angular, Flutter, Dart.
 
 - Frameworks -
 Angular , Bootstrap.
