@@ -1,12 +1,11 @@
 - 👋 Hi, I’m @thedheerajjaiswal
 - 👀 I’m interested in explorering new technologies and leverage them to solve real-life problems 
-- ✨💻. I'm currently into Web Development & Mobile Development
-- 🌱 I’m currently learning ... Flutter 
-- 💞️ I’m looking to collaborate on ...Flutter Project
+- ✨💻. I'm currently into Frontend Development 
+- 💞️ I’m looking to collaborate on ...Frontend Projects
 - 📫 How to reach me ...   dheerajjaiswal781@gmail.com
 - 🛠 Languages and Tools -
 Programming Languages-
-HTML5,  CSS3,  JavaScript,Reactjs,Angular, Flutter, Dart.
+HTML5,  CSS3,  JavaScript, Reactjs, Angular, Typesctipt, Flutter, Dart.
 
 - Frameworks -
 Angular , Bootstrap.
